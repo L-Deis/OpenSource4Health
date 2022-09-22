@@ -42,7 +42,7 @@ The software can also be adapted by anyone for different purposes. As a result, 
 
 ### Open Revenue model
 The current vendor lock-ins are maintained by commercial parties (epic, chipsoft, medimap etc) that use traditional models in which software usage rights are purchased.
-This model does not fit with the basic principles of the Dutch healthcare system: a healthcare system financed in a solliary manner with public funds based on accessibility, quality and affordability for all.
+This model does not fit with the basic principles of the Dutch healthcare system: a single-payer healthcare system, financed with public funds based on accessibility, quality and affordability for all.
 The philosophy of Open Health is therefore different and based on openness, reusability and transparency. 
 
 That doesn't mean companies cannot or should not make money from ICT in Healthcare. It's just that they don't make money on user rights, but on the use of and services related to it. Think of SaaS, hosting and specific services.
